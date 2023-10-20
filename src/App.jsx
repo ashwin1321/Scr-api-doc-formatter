@@ -33,7 +33,7 @@ function App() {
 
   return (
     <div className="bg-gray-100 p-4 h-screen">
-      <h1 className="text-4xl font-bold mb-4 text-center text-blue-500 mt-[50px]">SCR API Input Formatter</h1>
+      <h1 className="text-4xl font-bold mb-4 text-center text-blue-500 mt-[50px]">SCR API DOC FORMATTER</h1>
       <div className='flex flex-col items-center mt-[50px]'>
         <p className="mb-2 text-2xl">Enter your data in the format:  <span className='text-red-500'>`field_name its_description data_type`</span>, one entry per line.</p>
         <textarea
